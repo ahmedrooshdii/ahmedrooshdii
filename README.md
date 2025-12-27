@@ -21,29 +21,6 @@ With a Bachelor's in **Computer Science** and a background in **Embedded Systems
 
 ---
 
-### 🔭 Featured Projects
-
-#### 🎬 **Netflix-Clone Streaming Platform**
-*Full Stack Application | ASP.NET Core Web API, Angular, SQL Server*
-A modular streaming MVP delivered in 14 days.
-- **Architecture:** Implemented **Domain-Driven Design (DDD)** and **CQRS with MediatR** for scalability.
-- **Security:** Built auth module using **JWT**, refresh tokens, and role-based access.
-- **Features:** Integrated **Stripe** for subscription payments and developed an Angular Admin Dashboard.
-
-#### 📦 **Inventory Management System**
-*RESTful API | ASP.NET Core, SQL Server*
-- Built for managing inventory, tracking sales, and generating automated reports.
-- Includes an analytics dashboard with visualized insights for business decisions.
-- Integrated barcode scanning and user role management to streamline operations.
-
----
-
-### ⚡ Current Status
-- 🎓 Currently a **Full Stack .NET Trainee** at **ITI**.
-- 💼 Creating modular systems using **Repository Patterns** and **Dependency Injection**.
-- 🌱 Deepening knowledge in **Microservices** and **System Integration**.
-
----
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedrooshdii)
